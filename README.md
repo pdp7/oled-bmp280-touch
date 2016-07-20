@@ -1,5 +1,6 @@
-* UNTESTED 
-* Teensy LC with SPI 128x64 OLED and Cap Touch
-* File: teensybig-oled.kicad_pcb
-   * Repo: https://github.com/pdp7/teensy-big-oled
-   * Commit: f37453f   
+* Teensy LC with:
+   * Adafruit 128x64 OLED (SPI)
+   * BMP280 Temp/Pressure sensor (I2C)
+   * Cap Touch Buttons 
+* OSH Park shared project:
+   * https://oshpark.com/shared_projects/LjXwvU4G
